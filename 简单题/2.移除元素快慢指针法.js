@@ -12,6 +12,7 @@ var removeElement = function(nums, val) {
         left++
       }
       right++
+      console.log(aaa)
     }
     return left
 };
